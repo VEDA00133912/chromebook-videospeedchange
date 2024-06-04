@@ -1,3 +1,4 @@
+// 保存するときはtxt形式で保存すればコピって使える
 function getCurrentSpeed() {
     return document.querySelector('video').playbackRate;
 }
